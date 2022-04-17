@@ -10,7 +10,7 @@ const mysql=require("mysql")
 const con =mysql.createConnection({
     host:"localhost",
     user:"root",
-    password:"Kp735454@",
+    password:"password",
     database:"database1"
 })
 
